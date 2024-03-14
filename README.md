@@ -1,3 +1,12 @@
+## To run firebase and enable google sign in within this app you need to create .env file within the project root folder. The file contents of .env file are as follows:-
+
+REACT_APP_API_KEY=<Your api key>
+REACT_APP_AUTH_DOMAIN=<Your auth domain>
+REACT_APP_PROJECT_ID=<Your project id>
+REACT_APP_STORAGE_BUCKET=<Your storage buckt>
+REACT_APP_MESSAGING_SENDER_ID=<Your messaging sender id>
+REACT_APP_APP_ID=<Your app id>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
